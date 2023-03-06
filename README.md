@@ -1,7 +1,7 @@
 # Dig-Inn
 Dig Inn Data Analytics Project
 The data is borrowed from Columbia Business School. 
-In this project we:
+In this project I:
 
 •	Used Python (Numpy, Pandas) and R (Dplyr, Tidyverse) to clean and analyze more than 2 million rows of 
 restaurant chain dataset
