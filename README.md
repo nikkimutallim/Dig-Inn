@@ -1,6 +1,6 @@
 # Dig-Inn
 Dig Inn Data Analytics Project
-This is a term project we did with my classmate Jim J. Sill for Analytical Programming class. The data is borrowed from Columbia Business School. 
+The data is borrowed from Columbia Business School. 
 In this project we:
 
 •	Used Python (Numpy, Pandas) and R (Dplyr, Tidyverse) to clean and analyze more than 2 million rows of 
