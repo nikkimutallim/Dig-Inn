@@ -11,7 +11,7 @@ restaurant chain dataset
 Below is the drive with datasets:
 https://drive.google.com/drive/folders/1NqqHK_95eXtmx4wC1_DgKR2YdD13kIeY?usp=sharing
 
-In this project, I with Jim:
+In this project, I:
 
 1) Conducted Data Mining and Analysis for a Health Food Restaurant Chain:
 
